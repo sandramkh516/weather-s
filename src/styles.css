@@ -53,3 +53,8 @@ form {
 .degrees {
   text-align: center;
 }
+small {
+  display: block;
+  text-align: center;
+  margin-top: 10px;
+}
